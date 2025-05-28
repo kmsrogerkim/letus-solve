@@ -1,10 +1,5 @@
-string = input("숫자들을 입력하세요")
-target = int(input("타겟을 입력하세요"))
-str_list = string.split()
-num_list = []
-
-for i in str_list:
-    num_list.append(int(i))
+num_list = [1, 3, 5, 6, 8]
+target = 8
 
 length = len(num_list)
 
