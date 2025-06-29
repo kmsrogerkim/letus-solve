@@ -1,2 +1,6 @@
 *.pyc
 YOLO/data/*
+
+# For Poetry
+*.toml
+*.lock
